@@ -84,16 +84,6 @@ A comprehensive Object-Oriented Programming (OOP) project built in Python for ma
 3. **Browse & Book**: Login as customer, view available cars, and make bookings
 4. **Return**: Return cars when done
 
-## 📁 Project Structure
-
-```
-Car-Rental-Management-System-OOP/
-│
-├── main.py                 # Main application file
-├── rental_system.db        # SQLite database (created automatically)
-├── README.md              # Project documentation
-└── requirements.txt       # Python dependencies (optional)
-```
 
 ## 🏗️ Classes Overview
 
