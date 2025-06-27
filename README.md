@@ -3,16 +3,17 @@
 A comprehensive Object-Oriented Programming (OOP) project built in Python for managing car rentals with separate admin and customer functionalities.
 
 ## 📋 Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Classes Overview](#classes-overview)
-- [Database Schema](#database-schema)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+- [Features](#-features)
+- [Technologies Used](#️-technologies-used)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Project Structure](#-project-structure)
+- [Classes Overview](#️-classes-overview)
+- [Database Schema](#️-database-schema)
+- [Key OOP Concepts](#-key-oop-concepts-demonstrated)
+- [Future Enhancements](#-future-enhancements)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ## ✨ Features
 
