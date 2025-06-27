@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![SQLite](https://img.shields.io/badge/database-SQLite-blue.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+
 # Car Rental Management System 🚗
 
 A comprehensive Object-Oriented Programming (OOP) project built in Python for managing car rentals with separate admin and customer functionalities.
