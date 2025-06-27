@@ -1,0 +1,5 @@
+# Terminal styling
+colorama==0.4.6
+
+# ASCII art for CLI title (optional aesthetic)
+pyfiglet==0.8.post1
